@@ -1,4 +1,4 @@
-#Cocoapods安装
+##Cocoapods安装
 以下操作全部在终端中进行操作
 
 1. 替换ruby软件源
